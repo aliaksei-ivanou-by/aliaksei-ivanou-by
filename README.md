@@ -6,4 +6,4 @@ used to learn Java, Ruby. Nowadays I think that C++ is interesting for its compl
 work on interesting projects, with the focus on performance and new features, where I can really use the full power of the C++
 language.
 
-Relocation possible: Belarus (Minsk, Brest), Lithuania, Poland, Ukraine.
+Relocation is possible.

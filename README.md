@@ -5,8 +5,6 @@ Nowadays I think that C++ is interesting for its complexity and applicability in
 projects, with the focus on performance and new features, where I can really use the full power of the C++ language.
 # Languages
 English B1+, Swedish A2, Polish B1 (in process).
-# Contacts
-[![Telegram Badge](https://img.shields.io/badge/-aliaksei.ivanou-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aliaksei_ivanou) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=iCloud&logoColor=white)](mailto:aliaksei.ivanou.by@icloud.com)
 # CV & Certificates
 - [CV](https://github.com/aliaksei-ivanou-by/Summary/blob/master/Summary/Aliaksei%20Ivanou_CV.pdf)
 - [Certificates](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Diplomas%20and%20certificates)

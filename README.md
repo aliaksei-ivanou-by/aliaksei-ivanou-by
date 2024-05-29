@@ -4,7 +4,7 @@ At the university I used to learn C++, but didn't think to make it my main tool.
 Nowadays I think that C++ is interesting for its complexity and applicability in almost all spheres. I'd like to work on interesting
 projects, with the focus on performance and new features, where I can really use the full power of the C++ language.
 # Languages
-English B1+, Swedish A2, Polish B1 (in process).
+English B1+, Swedish A2, Polish B2 (in process).
 # CV & Certificates
 - [CV](https://github.com/aliaksei-ivanou-by/Summary/blob/master/Summary/Aliaksei%20Ivanou_CV.pdf)
 - [Certificates](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Diplomas%20and%20certificates)

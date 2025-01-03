@@ -7,8 +7,8 @@ projects, with the focus on performance and new features, where I can really use
 English B1+, Swedish A2, Polish B1.
 # CV & Certificates
 - [CV](https://github.com/aliaksei-ivanou-by/Summary/blob/master/Summary/Aliaksei%20Ivanou.pdf)
-- [Certificates](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Diplomas%20and%20certificates)
-- [Science articles](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Science%20articles)
+- [Certificates](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Diplomas_and_certificates)
+- [Science articles](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Science_articles)
 # GitHub statistics:
 <table>
   <tr>

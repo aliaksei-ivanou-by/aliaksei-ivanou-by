@@ -38,9 +38,9 @@
 
 ## Selected public work
 
-- **[Home Accounting](https://github.com/aliaksei-ivanou-by/Home_Accounting)** - a personal C++20/FLTK/SQLite desktop application for financial tracking and analytics.
-- **[Stroustrup Programming](https://github.com/aliaksei-ivanou-by/Stroustrup_Programming)** - C++ exercises and practice based on *Programming: Principles and Practice Using C++*.
-- **[AI for Developers](https://github.com/aliaksei-ivanou-by/Course_AI_for_developers)** - notes and practical materials on AI-assisted software development.
+- **[Home Accounting](https://github.com/aliaksei-ivanou-by/Home_Accounting)** — a personal C++20/FLTK/SQLite desktop application for financial tracking and analytics.
+- **[Stroustrup Programming](https://github.com/aliaksei-ivanou-by/Stroustrup_Programming)** — C++ exercises and practice based on *Programming: Principles and Practice Using C++*.
+- **[AI for Developers](https://github.com/aliaksei-ivanou-by/Course_AI_for_developers)** — notes and practical materials on AI-assisted software development.
 
 Commercial source code is proprietary; the public repositories above contain independent projects and learning materials.
 

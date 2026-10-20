@@ -1,43 +1,53 @@
-# Hello, my name is Aliaksei.
-# About me
-Software Engineer with 11+ years of technical expertise in algorithm development, system optimization, and cross-platform implementation. Seeking to leverage my expertise in C/C++ software development.
+<h1 align="center">Hi, I'm Aliaksei 👋</h1>
 
-### C/C++ Development (4+ years)
-- Collaborated with internal and client teams in a multicultural environment, working across diverse technical stacks.
-- Led a 2-person team that reduced feature delivery time by **20%**.
-- Improved system performance by **15%** through codebase optimization and legacy code removal.
-- Boosted system efficiency and reliability by **25%**.
+<p align="center">
+  <strong>C++ Engineer · Embedded Linux · Qt · Systems Engineering</strong>
+</p>
+<p align="center">
+  <em>From satellite image-processing algorithms to embedded telephony on ARM64 devices.</em>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aliaksei-ivanou-by/">LinkedIn</a> ·
+  <a href="#selected-public-work">Projects</a> ·
+  <a href="mailto:aliaksei.ivanou.by@icloud.com">Email</a>
+</p>
 
-### MATLAB Development (7.5 years)
-- Specialized in data analysis and image processing for **10+ Earth Observation satellites**.
-- Developed **image processing and compression algorithms**, significantly improving data quality and processing efficiency by **40%**.
-- Reduced post-processing time by **60%** through optimized algorithm development.
+## At a glance
 
-### Additional Information
-- Experienced in Image Processing, Embedded Systems, and tackling complex structures.
-- Skilled in optimizing and restructuring legacy systems, yet primarily focused on modern technologies and evolving stacks to drive innovation and business success.
-- Committed to achieving business goals through deep domain immersion and the creation of effective user scenarios.
-- Valid work residence permit for Poland.
+- **6+ years of C++ practice**, including **5 years in commercial roles**, and **14 years** across software engineering and R&D.
+- **Recent focus:** C++17, Qt 5.15, embedded Linux, Yocto, SIP/VoIP and device-facing software on NXP i.MX ARM64 hardware.
+- **Earlier work:** C89 backend development for a long-lived library platform, C++ enterprise and industrial software, and 7+ years of MATLAB image-processing R&D for satellite and UAV optical systems.
+- **People Lead responsibilities since October 2025:** technical guidance, 1:1s, onboarding, development planning and hiring support for a small engineering group, alongside primarily hands-on engineering.
 
-# Languages
-- **English**: Working proficiency (B1+)
-- **Polish**: Conversational proficiency (B1)
-- **Swedish**: Elementary proficiency (A2)
-- **Russian**: Native proficiency (C2)
-- **Belarusian**: Native proficiency (C2)
+> I like problems that cross boundaries: application state, protocols, configuration, the operating system and real hardware.
 
-# CV & Certificates
-- [CV](https://github.com/aliaksei-ivanou-by/Summary/blob/master/Aliaksei_Ivanou.pdf)
-- [Certificates](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Certificates)
-- [Science articles](https://github.com/aliaksei-ivanou-by/Summary/tree/master/Articles)
-# GitHub statistics:
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=aliaksei-ivanou-by&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliaksei-ivanou-by&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+## Selected engineering work
+
+| Area | Contributions |
+| --- | --- |
+| **Embedded telephony (2025–2026)** | Implemented a SIP registration watchdog and primary/backup server failover/failback in a customized Linphone SDK; integrated the behavior across the Qt application and provisioning. |
+| **Device tooling** | Extended a Windows autoprovisioning tool and migrated it from .NET Framework 4.8 to .NET 8. |
+| **Production systems** | Developed and debugged a C89 backend across C, Java, Scala and PostgreSQL components on Linux/AWS. |
+| **Imaging R&D** | Developed MATLAB algorithms for satellite-image stitching, onboard compression, resolution assessment and UAV image processing. |
+
+## Technical toolkit
+
+**Core:** `C++17/20` · `C89` · `Qt` · `Embedded Linux` · `Yocto` · `SIP/VoIP` · `Linphone` · `CMake` · `Git`
+
+**Also used in projects:** `C#/.NET` · `Java` · `Scala` · `PostgreSQL` · `SQLite` · `MATLAB` · `PCL`
+
+## Selected public work
+
+- **[Home Accounting](https://github.com/aliaksei-ivanou-by/Home_Accounting)** - a personal C++20/FLTK/SQLite desktop application for financial tracking and analytics.
+- **[Stroustrup Programming](https://github.com/aliaksei-ivanou-by/Stroustrup_Programming)** - C++ exercises and practice based on *Programming: Principles and Practice Using C++*.
+- **[AI for Developers](https://github.com/aliaksei-ivanou-by/Course_AI_for_developers)** - notes and practical materials on AI-assisted software development.
+
+Commercial source code is proprietary; the public repositories above contain independent projects and learning materials.
+
+## What's next
+
+I'm interested in **senior C++ engineering roles in Poland**, especially embedded Linux, Qt/HMI, SIP/VoIP and systems work. I previously worked in Warsaw and am preparing to return.
+
+**Languages:** English B2 · Polish A2 · Swedish A2 · Russian and Belarusian (native).
+
+[**Connect on LinkedIn →**](https://www.linkedin.com/in/aliaksei-ivanou-by/) · [**Contact by email →**](mailto:aliaksei.ivanou.by@icloud.com)
